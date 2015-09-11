@@ -61,14 +61,14 @@
         </group>
         <group id="4">
           <trans-unit id="5" translate="yes" xml:space="preserve">
-            <source>啦啦啦啦啦啦啦啦</source>
-            <target state="new">Set up billing alerts for your Microsoft Azure subscriptions</target>
+            <source>Set up billing alerts for your Microsoft Azure subscriptions</source>
+            <target state="new">啦啦</target>
           </trans-unit>
         </group>
         <group id="5">
           <trans-unit id="6" translate="yes" xml:space="preserve">
             <source>Are you concerned about how much you're spending each month for your Azure subscription?</source>
-            <target state="new">Are you concerned about how much you're spending each month for your Azure subscription?</target>
+            <target state="new">哦?</target>
           </trans-unit>
         </group>
         <group id="6">
